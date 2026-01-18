@@ -1,0 +1,29 @@
+active species,perturbing species,J',J",Ka',Kc',Ka",Kc",gamma (cm⁻¹ atm⁻¹),percentage error in gamma,absolute uncertainty in gamma,n (temperature exponent),temperature (K),line profile,notes
+NO,Air,7.5,6.5,N/A,N/A,N/A,N/A,0.0632,1.90,0.0012,0.67,296,Voigt,"Data from Table 2. Temperature exponent from Table 5."
+NO,Air,4.5,5.5,N/A,N/A,N/A,N/A,0.0655,1.53,0.0010,0.72,296,Voigt,"Data from Table 2. Temperature exponent from Table 5."
+NO,Air,3.5,2.5,N/A,N/A,N/A,N/A,0.0653,1.38,0.0009,N/A,296,Voigt,Data from Table 2.
+NO,Air,2.5,3.5,N/A,N/A,N/A,N/A,0.0673,1.49,0.0010,N/A,296,Voigt,Data from Table 2.
+NO,N2,7.5,6.5,N/A,N/A,N/A,N/A,0.0628,1.59,0.0010,0.69,296,Voigt,"Data from Table 3. Temperature exponent from Table 5."
+NO,N2,4.5,5.5,N/A,N/A,N/A,N/A,0.0651,1.54,0.0010,0.74,296,Voigt,"Data from Table 3. Temperature exponent from Table 5."
+NO,N2,3.5,2.5,N/A,N/A,N/A,N/A,0.0649,1.54,0.0010,N/A,296,Voigt,Data from Table 3.
+NO,N2,2.5,3.5,N/A,N/A,N/A,N/A,0.0672,1.34,0.0009,N/A,296,Voigt,Data from Table 3.
+NO,CO2,7.5,6.5,N/A,N/A,N/A,N/A,0.0863,1.39,0.0012,N/A,296,Voigt,Data from Table 3.
+NO,CO2,4.5,5.5,N/A,N/A,N/A,N/A,0.0911,1.32,0.0012,N/A,296,Voigt,Data from Table 3.
+NO,CO2,3.5,2.5,N/A,N/A,N/A,N/A,0.0913,1.31,0.0012,N/A,296,Voigt,Data from Table 3.
+NO,CO2,2.5,3.5,N/A,N/A,N/A,N/A,0.0954,1.15,0.0011,N/A,296,Voigt,Data from Table 3.
+NO,Ar,7.5,6.5,N/A,N/A,N/A,N/A,0.0436,2.29,0.0010,N/A,296,Voigt,Data from Table 3.
+NO,Ar,4.5,5.5,N/A,N/A,N/A,N/A,0.0461,2.17,0.0010,N/A,296,Voigt,Data from Table 3.
+NO,Ar,3.5,2.5,N/A,N/A,N/A,N/A,0.0463,2.16,0.0010,N/A,296,Voigt,Data from Table 3.
+NO,Ar,2.5,3.5,N/A,N/A,N/A,N/A,0.0485,2.27,0.0011,N/A,296,Voigt,Data from Table 3.
+NO,H2,7.5,6.5,N/A,N/A,N/A,N/A,0.0631,2.06,0.0013,N/A,296,Voigt,Data from Table 3.
+NO,H2,4.5,5.5,N/A,N/A,N/A,N/A,0.0592,2.36,0.0014,N/A,296,Voigt,Data from Table 3.
+NO,H2,3.5,2.5,N/A,N/A,N/A,N/A,0.0573,2.44,0.0014,N/A,296,Voigt,Data from Table 3.
+NO,H2,2.5,3.5,N/A,N/A,N/A,N/A,0.0551,2.54,0.0014,N/A,296,Voigt,Data from Table 3.
+NO,O2,7.5,6.5,N/A,N/A,N/A,N/A,0.0521,2.50,0.0013,N/A,296,Voigt,Data from Table 3.
+NO,O2,4.5,5.5,N/A,N/A,N/A,N/A,0.0558,2.15,0.0012,N/A,296,Voigt,Data from Table 3.
+NO,O2,3.5,2.5,N/A,N/A,N/A,N/A,0.0559,2.15,0.0012,N/A,296,Voigt,Data from Table 3.
+NO,O2,2.5,3.5,N/A,N/A,N/A,N/A,0.0583,2.06,0.0012,N/A,296,Voigt,Data from Table 3.
+NO,He,7.5,6.5,N/A,N/A,N/A,N/A,0.0495,2.42,0.0012,N/A,296,Voigt,Data from Table 4.
+NO,He,4.5,5.5,N/A,N/A,N/A,N/A,0.0519,2.31,0.0012,N/A,296,Voigt,Data from Table 4.
+NO,He,3.5,2.5,N/A,N/A,N/A,N/A,0.0518,2.32,0.0012,N/A,296,Voigt,Data from Table 4.
+NO,He,2.5,3.5,N/A,N/A,N/A,N/A,0.0543,2.40,0.0013,N/A,296,Voigt,Data from Table 4.
